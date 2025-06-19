@@ -1,5 +1,5 @@
 ---
 - hosts: localhost
-  remote_user: baby
+  remote_user: jenkins
   roles:
     - nginx
