@@ -1,5 +1,5 @@
 ---
 - hosts: localhost
-  remote_user: yall
+  remote_user: baby
   roles:
     - nginx
